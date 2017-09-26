@@ -6,6 +6,7 @@
 [SASS](http://sass-lang.com/) |
 [Webpack](https://webpack.js.org/) 
 
+
 ## Usage
 
 ### Add options
@@ -19,14 +20,14 @@ Before you've entered any options, the "decision button" at the top is disabled,
 
 ![](https://i.imgur.com/9CWNb6n.png?3)
 
-After you've entered your options, click the button at the top to decide your fate! The button knows best.
+After you've entered your options, click the button at the top to decide your fate! 
 
 
 ### Accept the chosen option
 
 ![](https://i.imgur.com/NdCKdBm.png?2)
 
-The button has chosen, and you must obey. Have fun!
+The button has chosen, and you must obey. Have fun at the movies!
 
 
 ## Installation
