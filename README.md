@@ -11,7 +11,8 @@
 
 ### Add options
 
-![](https://i.imgur.com/XdI3kyi.png?2)
+![mobile view](https://i.imgur.com/XdI3kyi.png?2)
+![desktop view](https://i.imgur.com/7KJDC9h.png?1)
 
 Before you've entered any options, the "decision button" at the top is disabled, so first step is to enter some options!
 
