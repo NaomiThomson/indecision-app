@@ -1,4 +1,6 @@
-# indecision-app
+# Indecision-App
+An application that helps indecisive people decide! Enter any number of options, and once you're done, click the button that will decide your fate. The application's UI and UX are optimized for desktop and mobile users so everyone is allowed a good user experience. 
+
 
 ## Technologies used
 [Node.js](https://nodejs.org/en/) |
@@ -7,11 +9,11 @@
 [Webpack](https://webpack.js.org/) 
 
 
+
 ## Usage
 
 ### Add options
 
-![mobile view](https://i.imgur.com/XdI3kyi.png?2)
 ![desktop view](https://i.imgur.com/7KJDC9h.png?1)
 
 Before you've entered any options, the "decision button" at the top is disabled, so first step is to enter some options!
@@ -19,16 +21,17 @@ Before you've entered any options, the "decision button" at the top is disabled,
 
 ### Click the all-knowing button
 
-![](https://i.imgur.com/9CWNb6n.png?3)
+![](https://i.imgur.com/XQ2Ecg2.png?1)
 
 After you've entered your options, click the button at the top to decide your fate! 
 
 
 ### Accept the chosen option
 
-![](https://i.imgur.com/NdCKdBm.png?2)
+![desktop view](https://i.imgur.com/jiGddlX.png?1)
 
 The button has chosen, and you must obey. Have fun at the movies!
+
 
 
 ## Installation
