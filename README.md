@@ -7,7 +7,7 @@
 [Webpack](https://webpack.js.org/) 
 
 ### Snapshots
-![](https://i.imgur.com/XdI3kyi.png)
-![](https://i.imgur.com/9CWNb6n.png)
-![](https://i.imgur.com/NdCKdBm.png)
+![](https://i.imgur.com/XdI3kyi.png?1)
+![](https://i.imgur.com/9CWNb6n.png?1)
+![](https://i.imgur.com/NdCKdBm.png?1)
 
