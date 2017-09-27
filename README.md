@@ -51,8 +51,18 @@ $ npm install
 3. Run the application
 
 ```bash
-$ yarn run dev-server
+$ yarn run build:prod
 ```
+
+4. Start the server in a separate terminal
+
+```bash
+$ node server/server.js
+```
+
+5. Visit the application on localhost:3000!
+
+
 
 
 
