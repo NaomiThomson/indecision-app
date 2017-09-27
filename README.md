@@ -1,5 +1,5 @@
-# Indecision-App
-An application that helps indecisive people decide! Enter any number of options, and once you're done, click the button that will decide your fate. The application's UI and UX are optimized for desktop and mobile users so everyone is allowed a good user experience. 
+# [Indecision-App](https://indecision-naomi.herokuapp.com/)
+An application that helps indecisive people decide! Enter any number of options, and once you're done, click the button that will decide your fate. The application's UI and UX are optimized for desktop and mobile users so everyone is allowed a good user experience. Visit the application by clicking this [link](https://indecision-naomi.herokuapp.com/).
 
 
 ## Technologies used
